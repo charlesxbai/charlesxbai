@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlesxbai
-- 👀 I’m interested in AI, NLP, Efficiency, Carbon & Power Consumption, etc. 
+- 👀 I’m interested in AI and Climate
 - 🌱 I primarily work on AI efficiency @ Facebook AI
 - 📫 Reach me at cb674@cornell.edu if you have cool new ideas
 
