@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @charlesxbai
-- 👀 I’m interested in AI and Climate
-- 🌱 I primarily work on AI efficiency @ Facebook AI
-- 📫 Reach me at cb674@cornell.edu if you have cool new ideas
+- 📫 Reach me at cb674@cornell.edu if you have cool new ideas around Climate, AI and Web3
 
 <!---
 charlesxbai/charlesxbai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
